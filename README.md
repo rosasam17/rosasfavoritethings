@@ -16,5 +16,5 @@
 ![image](https://github.com/rosasam17/rosasfavoritethings/assets/143035718/23337c95-3edd-4f17-969d-7c80e830cba3)
 
  1. I enjoy comedy because laughter really is the best medicine.
- 2. There are so many different types of music and putting on my favorite music will always put me in a good mood
- 3. I love spending time with the people I love and both of these things I can enjoy with my loved ones.
+ 2. There are so many different types of music and putting on my favorite music will always put me in a good mood.
+ 3. I love spending time with the people I love and both of these things I can enjoy with them.
