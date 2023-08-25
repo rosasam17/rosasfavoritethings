@@ -1,13 +1,13 @@
 # Rosa's Favorite Things
 
 ## Shows:
-![alt text](![schitts creel](https://github.com/rosasam17/rosasfavoritethings/assets/143035718/c4734e7e-4997-49d7-9825-238f83fd7134)
-)
+![schitts creel](https://github.com/rosasam17/rosasfavoritethings/assets/143035718/c4734e7e-4997-49d7-9825-238f83fd7134)
+
 **Comedy is my favorite genre**
 
 ## Music:
-![alt text](![image](https://github.com/rosasam17/rosasfavoritethings/assets/143035718/139c52a4-5bae-4fdf-a683-78072f983b91)
-)
+![image](https://github.com/rosasam17/rosasfavoritethings/assets/143035718/139c52a4-5bae-4fdf-a683-78072f983b91)
+
 **My music taste is very random. I love anything that sounds good**
 
 
