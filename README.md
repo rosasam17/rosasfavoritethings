@@ -1,7 +1,7 @@
 # Rosa's Favorite Things
 
 ## Shows:
-**Comedy is my favorite genre**
+**Comedy is my favorite genre** :grinning:
 
 ![schitts creel](https://github.com/rosasam17/rosasfavoritethings/assets/143035718/c4734e7e-4997-49d7-9825-238f83fd7134)
 ![the office](https://github.com/rosasam17/rosasfavoritethings/assets/143035718/52b2b21a-24a0-44c8-b935-ba9d02305137)
